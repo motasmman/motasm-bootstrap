@@ -1,0 +1,102 @@
+header{
+   background-image: url('ä.jpg');
+   background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+}
+
+a{
+    color: #129d10;
+}
+.bg-light{
+    background-color: none;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    color:rgb(240, 71, 49);
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h3{
+    color: #fff01e;
+    font-size: 30px;
+}
+
+.kk{
+    color: #33a117;
+    font-family: 'Libre Baskerville', serif;
+
+}
+#ko{
+    background-image: url(https://cf2.s3.souqcdn.com/item/2017/03/05/22/14/16/36/item_XL_22141636_29471673.jpg); 
+    padding-bottom: 20px;
+
+}
+
+h2#qwe.card-text{
+   font-size: 40px;
+   text-align: center
+    
+}
+
+#pp {
+    color: #d9dce6;
+    font-family: 'Hanalei Fill', cursive;
+  text-align: center;
+  padding: 16px;
+  font-size: 30px
+
+}
+
+.card{
+    border: 0px;
+}
+#lil{
+    width: 100%;
+    
+}
+
+.caro-bg {
+    background-image: url('js.jpg');
+    background-size: cover;
+}
+
+#no{
+    background-image: url(v2.jpg);
+    background-size: cover;
+    padding-bottom: 150px;
+}
+h4#gg {
+font-size: 150%;
+text-align: center;
+color: #e6ae5b;
+font-family: 'Bevan', cursive;
+   
+}
+.list ul li{
+    float: left;
+    list-style: none;
+}
+
+.motas-max {
+    display: inline-block;
+    color: #e6ae5b;
+    text-decoration: none;
+    font-family: 'Bungee Inline', cursive;
+
+}
+
+
+.motas-max:hover{
+    background-color: #ce6a8b;
+    clear: #000;
+}
+.motas-max img{
+    display: inline-block;
+    padding: 5px;
+}
+footer{
+    background-color: #778ca3;
+    padding: 10px;
+}
